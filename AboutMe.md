@@ -4,7 +4,7 @@
   
   ***
   # Table containg country details
-  |Name of Country|Reason|Days spent|
+  |Name of Country|why to go|Days spent|
   |---------------|------|----------|
   |India|It is a Famous for historical places|5 days|
   |Thailand|Thailand is known for its stunning beaches|7 days
