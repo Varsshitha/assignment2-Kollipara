@@ -15,4 +15,4 @@
   * Jwala Gutta
   * Aparna Popat
   
- [link to ](https://github.com/Varsshitha/assignment2-Kollipara/blob/6a5a2c43c34150808c6e4aad59553a90f4a7e7ee/AboutMe.md) 
+ [link to  about me](https://github.com/Varsshitha/assignment2-Kollipara/blob/6a5a2c43c34150808c6e4aad59553a90f4a7e7ee/AboutMe.md) 
