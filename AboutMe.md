@@ -21,7 +21,7 @@
   # code fencing
   ***
   > How to use map-deep-get in sass 
-  > question  <https://stackoverflow.com/questions/66003935/how-to-use-map-deep-get-in-sass>
+  question  <https://stackoverflow.com/questions/66003935/how-to-use-map-deep-get-in-sass>
 
 ``` $o-grid-default-config: (
     columns: 12,
